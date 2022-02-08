@@ -1,0 +1,50 @@
+[
+  {
+    "id": "refresh"
+    "name": "Refresh",
+    "artist": "IcoMoon",
+    "src": "https://thenounproject.com/search/?q=refresh&i=4132267"
+  },
+  {
+    "id": "padlock",
+    "name": "Lock",
+    "artist": "IcoMoon",
+    "src": "https://thenounproject.com/search?q=lock&i=3107451"
+  },
+  {
+    "id": "external",
+    "name": "External",
+    "artist": "Adrien Coquet",
+    "src": "https://thenounproject.com/search/q=bug&i=3102407"
+  },
+  {
+    "id": "transfer",
+    "name": "transfer",
+    "artist": "H Alberto Gongora",
+    "src": "https://thenounproject.com/search/?q=external&i=3776998"
+  },
+  {
+    "id": "exit",
+    "name": "Log Out",
+    "artist": "Rflor",
+    "src": "https://thenounproject.com/search/?q=log+out&i=287771"
+  },
+  {
+    "id": "info",
+    "name": "Info",
+    "artist": "Rainbow Designs",
+    "src": "https://thenounproject.com/search/?q=info&i=2691050"
+  },
+  {
+    "id": "heart",
+    "name": "Heart",
+    "artist": "Luiz Carvalho",
+    "src": "https://thenounproject.com/search/?q=heart&i=4354078"
+  },
+  {
+    "id": "refund",
+    "name": "Refund",
+    "artist": "Adrien Coquet",
+    "src": "https://thenounproject.com/search/?q=refund&i=2340130"
+  }
+]
