@@ -1,4 +1,4 @@
-# UPify
+<img src="https://user-images.githubusercontent.com/659408/152967955-aa53ca73-db35-4ebd-80a1-5f69f145b6f9.png" alt="UPify">
 
 UPify is a personal practice project aimed at fully exploring the ins and outs of Svelte development and building API-driven web apps. It uses the [UP API](https://developer.up.com.au) to power a desktop-class web interface for browsing and analysing transactions on your UP account.
 
